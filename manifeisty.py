@@ -72,7 +72,7 @@ def parse_args():
   # output dir
   parser.add_argument('-d', '--directory', help = "Directory for output (filename: N.json)", default = "./")
   # FIXME: Wire in bad image reporting
-  parser.add_argument('-r', '--report', help = "Generate a JSON report for bad manifests and 404/500/etc images")
+  parser.add_argument('-r', '--report', help = "Generate a JSON report for bad manifests and 404/500/etc images", action = "store_true")
   args = vars(parser.parse_args())
   return args
 
@@ -110,8 +110,8 @@ def main():
         fixer.write_manifest(manifest, path)
       except Exception as e:
         fixer.log_error(e)
-
-  fixer.make_report()
+  if args["report"]:
+    fixer.make_report()
 
 if __name__ == "__main__":
   main()
