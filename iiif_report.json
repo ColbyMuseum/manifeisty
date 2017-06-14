@@ -1,0 +1,2612 @@
+{
+    "embark_error": [
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D197"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D328"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D335"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D1019"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D2580"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D2581"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D2582"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D2583"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D2584"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D2585"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D2586"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D2739"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D2897"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D2951"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D3094"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D3637"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D3654"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D3780"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D4724"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D4738"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D4998"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D5607"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D5608"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D5624"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D5694"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D5728"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D6272"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D6223"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D6439"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D6520"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D6523"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D6524"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D6808"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D8055"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D8157"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D8460"
+        ],
+        [
+            "EmbarkError: received JSON decode error on response from http://embark.colby.edu/results.html?layout=iiif_imgs&format=shtml&maximumRecords=1&recordType=objects_1&query=_ID%3D9317"
+        ]
+    ],
+    "iiif_error": [
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/499/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/504/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/506/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/510/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/512/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/514/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/646/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/855/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/883/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/893/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/903/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/910/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/951/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/957/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/1026/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/1046/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/1074/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/1081/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/1082/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/1083/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/1084/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/1457/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/1768/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/1776/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/1791/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/1943/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/1955/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/1956/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/2062/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/2661/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/2735/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/2743/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/2765/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/2779/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/2781/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/2879/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/2980/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/2981/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/2982/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/3026/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/3027/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/3057/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/3325/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/3714/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/3715/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/3747/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/3762/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/3786/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/3897/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/3942/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/3981/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/3982/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/3983/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/3984/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/3985/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/4030/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/4587/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/4623/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/4685/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/4737/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/4737/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/4867/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/4868/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/4869/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/4870/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/4883/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/4884/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/4885/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/4889/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5044/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5045/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5046/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5047/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5048/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5049/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5050/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5051/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5052/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5053/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5078/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5192/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5193/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5194/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5206/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5207/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5208/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5209/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5210/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5211/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5212/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5213/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5214/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5215/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5216/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5217/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5218/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5252/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5253/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5254/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5279/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5400/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5401/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5402/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5403/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5404/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5405/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5406/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5407/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5408/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5409/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5410/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5411/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5412/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5413/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5414/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5415/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5416/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5417/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5418/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5419/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5420/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5421/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5422/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5423/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5424/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5425/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5426/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5427/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5428/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5429/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5430/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5431/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5432/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5433/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5434/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5435/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5436/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5437/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5438/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5439/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5440/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5462/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5505/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5517/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5584/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5685/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5685/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5764/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/5885/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/6238/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/6237/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/6236/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/6235/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/6234/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/6233/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/6232/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/6231/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/6535/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/6536/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/6537/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/6539/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/6540/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/6541/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/6542/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/6543/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/6544/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/6607/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/6608/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/6634/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/6635/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/6863/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/6864/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/6867/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/6868/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/6918/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/6928/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/6930/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/6952/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9344/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7164/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7170/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7171/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7172/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7179/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7185/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7345/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7498/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7499/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7500/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7501/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7502/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7503/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7504/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7505/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7506/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7507/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7508/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7509/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7510/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7511/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7512/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7513/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7514/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7515/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7516/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7517/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7518/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7519/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7520/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7521/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7523/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7524/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7525/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7526/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7527/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7594/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7595/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7596/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7597/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7605/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7624/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7625/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7626/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7627/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7628/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7802/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7909/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7925/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7927/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7968/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7977/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/7978/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8012/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8052/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8052/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8094/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8095/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8097/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8105/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8177/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8187/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8192/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8195/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8216/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8219/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8238/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8239/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8295/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8306/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8307/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8308/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8396/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8399/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8408/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8461/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8462/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8466/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8467/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8468/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8469/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8532/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8575/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8576/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8749/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8811/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8816/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8910/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/8939/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9109/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9111/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9149/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9150/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9151/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9183/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9228/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9528/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9188/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9198/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9203/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9227/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9226/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9235/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9236/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9237/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9238/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9239/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9240/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9241/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9242/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9243/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9259/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9277/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9309/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9310/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9319/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9327/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9328/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9329/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9330/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9331/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9332/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9333/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9336/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9337/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9339/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9340/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9341/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9342/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9343/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9345/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9346/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9349/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9351/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9352/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9355/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9361/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9362/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9363/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9364/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9365/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9366/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9377/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9379/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9380/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9381/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9382/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9383/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9387/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9388/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9389/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9390/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9391/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9392/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9394/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9395/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9398/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9399/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9400/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9479/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9487/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9501/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9503/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9504/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9514/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9515/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9532/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9533/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9534/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9535/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9536/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9537/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9538/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9539/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9540/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9543/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9544/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9545/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9546/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9547/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9548/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9549/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9550/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9551/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9552/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9553/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9554/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9555/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9558/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9559/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9560/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9568/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9571/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9572/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9573/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9588/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9589/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9640/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9641/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9642/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9643/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9644/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9645/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9646/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9647/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9648/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9649/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9650/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9651/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9652/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9653/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9654/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9655/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9656/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9658/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9659/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9660/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9661/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9662/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9663/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9664/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9665/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9666/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9667/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9668/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9669/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9670/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9671/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9672/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9673/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9674/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9675/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9760/sequence"
+        },
+        {
+            "message": [
+                "Resource type 'sc:Sequence' requires 'canvases' to be set"
+            ],
+            "resource": "https://iiif.museum.colby.edu/presentation/object/9783/sequence"
+        }
+    ],
+    "image_error": [
+        [
+            "Got status code 404for image https://iiif.museum.colby.edu/image/XX-D-64%20_001"
+        ],
+        [
+            "Got status code 404for image https://iiif.museum.colby.edu/image/2013.054A-D_001"
+        ],
+        [
+            "Got status code 404for image https://iiif.museum.colby.edu/image/2013.083.A_001"
+        ],
+        [
+            "Got status code 404for image https://iiif.museum.colby.edu/image/2013.086.A-B_001"
+        ],
+        [
+            "Got status code 404for image https://iiif.museum.colby.edu/image/2016.010_001"
+        ]
+    ]
+}

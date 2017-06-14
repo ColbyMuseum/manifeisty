@@ -23,10 +23,10 @@ class Tattler():
 
         print("Making error report with " + str(len(self.errors)) + " errors")
         # Filter errors by type
-        report["embark_error"] = [e.args for e in self.errors if e is EmbarkError]
+        report["embark_error"] = [e.args for e in self.errors if isinstance(e, EmbarkError)]
         report["iiif_error"] = [{"resource": e.resource.id, "message": e.args} for e in self.errors if isinstance(e, PresentationError) ]
-        report["image_error"] = [e.args for e in self.errors if e is ManifeistyError]
+        report["image_error"] = [e.args for e in self.errors if isinstance(e,ManifeistyError)]
 
         with open(self.filepath, 'w') as f:
-            j = json.dumps(report)
+            j = json.dumps(report, sort_keys = True, indent = 4)
             f.write(j)

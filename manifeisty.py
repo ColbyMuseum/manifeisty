@@ -5,7 +5,7 @@ iiif_fixer.py: Consumes the CCMA IIIF object manifest canvas and image heights
 import requests, json, argparse, urllib, os.path
 
 from tattler import Tattler, ManifeistyError
-from embarkservice import EmbarkService, IIIFQuery, EmbarkError
+from embarkservice import EmbarkService, IIIFQuery, EmbarkError, KioskQuery
 from iiif_prezi.loader import ManifestReader, SerializationError 
 from iiif_prezi.factory import StructuralError, RequirementError, DataError
 
@@ -34,6 +34,7 @@ class IIIFFixer():
                             canvas.height = iiif_info['height']
                             canvas.width = iiif_info['width']
                         else:
+                            print("Got a bad status code for ",iiif_id)
                             self.log_error(ManifeistyError("Got status code " + str(info_response.status_code) + "for image " + info_response.url))
 
         return manifest
@@ -93,6 +94,16 @@ def main():
         id_nums = [ int(args["id"]) ]
 
     embark = EmbarkService( host = args["embark_server"] )  
+
+    collex = KioskQuery(layout = "iiif_collection", max_recs = -1)
+    try:
+        results = embark.fetch_json(collex)
+        if results.status_code = 400:
+            j = results.json().dumps(sort_keys = True, indent = 4)
+            with open('top.json','w') as f:
+                f.write(j)
+    except EmbarkError as e:
+        fixer.log_error(e)
 
     for num in id_nums:
         # Make query
